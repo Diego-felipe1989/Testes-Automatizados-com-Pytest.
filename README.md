@@ -30,8 +30,4 @@ source venv/bin/activate
 # Windows
 venv\Scripts\activate
 
----
 
-✅ Basta copiar e colar todo o conteúdo acima no seu `README.md` dentro do repositório `testes-automatizados-pytest`.
-
-Se quiser, posso te enviar um modelo básico de teste com Pytest também, para você subir junto. Deseja isso?
