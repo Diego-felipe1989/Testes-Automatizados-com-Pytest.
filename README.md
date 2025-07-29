@@ -24,3 +24,8 @@ git push -u origin main
 ```bash
 git clone https://github.com/Diego-felipe1989/testes-automatizados-pytest.git
 cd testes-automatizados-pytest
+python -m venv venv
+# Linux/Mac
+source venv/bin/activate
+# Windows
+venv\Scripts\activate
